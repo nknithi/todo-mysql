@@ -1,0 +1,54 @@
+/* App.css */
+html, body{
+  min-height: 100vh;
+  margin: 0px;
+  padding: 0px;
+   background-image: linear-gradient(#ff6a91, #dd2858);
+  background-repeat: no-repeat;
+  background-size: cover; 
+}
+
+/* Style for the task list */
+.task-list {
+  list-style-type: none;
+  padding: 0;
+
+}
+
+/* Style for each task item */
+.task-item {
+text-align: center;
+  margin-bottom: 10px;
+ padding: 8px;
+  }
+
+/* Style for the trash-can icon */
+  .trash-can {
+   color:#fe4e7e;
+  }
+
+/* Style for the add button */
+.add-button {
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  background-color:#fe4e7e;
+}
+
+/* Hover effect for the add button */
+.add-button:hover {
+  background-color:#f62f64;
+}
+
+/* Style for the task input */
+.task-input {
+   border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+ }
+
+/* Style for the todo container */
+.todo-container {
+   background-color:#040c3a
+}
+
+
+

@@ -1,0 +1,7 @@
+CREATE DATABASE todo;
+
+CREATE TABLE `task` (
+   `TaskID` INT NOT NULL AUTO_INCREMENT,
+   `Task` VARCHAR(255),
+   PRIMARY KEY (`TaskID`)
+ );
