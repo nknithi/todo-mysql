@@ -14,7 +14,7 @@ This To-Do list application combines the power of React, MySQL, Node.js, and Exp
 
 ## Introduction
 
-The To-Do list application is an enhanced version of the previous assignment, now incorporating MySQL for backend data storage and introducing a delete functionality. This application allows users to create and manage their tasks effectively.
+The To-Do list application is an enhanced version of the previous project, now incorporating MySQL for backend data storage and introducing a delete functionality. This application allows users to create and manage their tasks effectively.
 
 The application uses a combination of Node.js, Express.js, and MySQL for the backend, while React powers the front end. Users can input tasks into the designated input box, which are securely stored using MySQL. The tasks are neatly displayed in the tasks list section below and can be deleted by clicking the delete icon.
 
